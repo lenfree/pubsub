@@ -1,9 +1,11 @@
 Node scripts
 =========================================================
 
-Node scripts that uses pub/sub against zmq and rabbitmq for quick testing.
+Node scripts that uses pub/sub with zmq.
 
 Getting started:
 ===============
 
+brew install zmq
 npm install
+
